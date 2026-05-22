@@ -49,11 +49,3 @@ Actualmente trabajo en proyectos relacionados con:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ---
-
-## 📈 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OctavoBit&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavoBit&layout=compact)
-
----
