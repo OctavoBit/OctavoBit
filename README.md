@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/banner_logo.png" width="100%">
 </div>
 
 # 👋 Hola, soy Víctor
