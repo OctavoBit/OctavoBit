@@ -10,7 +10,7 @@
 
 Desarrollador Full Stack especializado en:
 
-.NET • Java • Android • Azure • IA • Automatización • Cloud
+.NET • Java • Android • Azure • IA • Automatización
 
 </div>
 
@@ -50,22 +50,6 @@ Actualmente trabajo en proyectos relacionados con:
 
 ---
 
-## ⭐ Proyectos Destacados
-
-### OctoJ
-Gestor avanzado de versiones Java para Windows.
-
-### EdasNeo IA
-Procesamiento inteligente de notificaciones electrónicas mediante IA.
-
-### RAG Framework
-Motor de búsqueda documental basado en Elastic + IA.
-
-### Cloud Automation
-Automatización de despliegues y servicios cloud.
-
----
-
 ## 📈 Estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OctavoBit&show_icons=true)
@@ -73,9 +57,3 @@ Automatización de despliegues y servicios cloud.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavoBit&layout=compact)
 
 ---
-
-## 🌐 Contacto
-
-- Web: https://octavobit.es
-- LinkedIn: https://linkedin.com/in/...
-- Email: contacto@octavobit.es
