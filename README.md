@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/banner_logo_land.png" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+    <img alt="OctavoBit Banner" src="assets/banner-dark.png">
+  </picture>
 </div>
 
 # 👋 Hola, soy Víctor
